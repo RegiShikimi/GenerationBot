@@ -13,7 +13,7 @@ target/classes/com/Generation/GenerationBot/Ref.class
 
 # Language file
 *.java
-src/main/java/com/Generation/GenerationBot/Rev.java
+src/main/java/com/Generation/GenerationBot/Ref.java
 
 # Package Files #
 *.jar
