@@ -1,5 +1,6 @@
 # Compiled class file
 *.class
+target/classes/com/Generation/GenerationBot/Ref.class
 
 # Log file
 *.log
@@ -9,6 +10,10 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
+# Language file
+*.java
+src/main/java/com/Generation/GenerationBot/Rev.java
 
 # Package Files #
 *.jar
