@@ -1,0 +1,82 @@
+1.¿Que es una Clase?
+2.¿Que es una Instancia?
+3.¿Que es un Objeto?
+4.¿Que relación existe entre clases y objetos?
+5.¿Que es un Atributo?
+6.¿Que es un Atributo final? 
+7.¿Que es una Clase final?
+8.¿Que es una Clase abstracta?
+9.¿Que es un Método?
+10.¿Que es un Método abstracto?
+11.¿Que es una Interface?
+12.¿Que son las Colecciones de Java?
+13.¿Que es Poliformismo?
+14.¿Que es Modularización?
+15.¿Que es Abstracción?
+16.¿Que es Agregación?
+17.¿Que es Composición?
+18.¿Que es Asociación?
+19.¿Que es Cardinalidad?
+20.¿Que es Herencia?
+21.¿Que es una Función Lambda?
+22.¿Cuales son las características más importantes de la POO?
+23.¿Cuales son las categorías de instrucción?
+24.¿Que tipos de Funciones hay?
+25.¿Que es un valor de retorno?
+26.¿Que es un parametro?
+27.¿Que es Sobrecarga de funciones(overload)?
+28.¿Que es un Arreglo?
+29.¿Para que sirve la función New?
+30.¿Que significa Static?
+31.¿Cuales son las diferencias entre una clase abstracta y una interfaz?
+32.¿Que problema resuelve el uso de interfaces?
+33.¿Que es un Framework?
+34.¿QuÈ ventaja tiene el uso de colecciones comparado con el uso de arreglos?
+35.¿Que se utiliza regularmente para recorrer los datos de una colección?
+36.¿Que se utiliza para recorrer los datos de un Vector?
+37.¿Como aumenta el tamaÒo de un ArrayList?
+38.¿como aumenta el tamaÒo de un Vector?
+39.¿Que se puede hacer para controlar el crecimiento de un Vector?
+40.¿Es posible que un vector contenga objetos de diferentes clases?
+41.¿Que es un dato enumerado?
+42.¿Que es una anotación?
+43.¿Que es una expresión Lambda?
+44.¿Cuando crees que serÌa util el uso de una expresión lambda?
+45.¿Que es POJO?
+46.¿Que son los Patrones de DiseÒo?
+47.¿Que es JavaBeans?
+48.¿Que son las Capas de Arquitectura para una solución?
+49.¿Que es Tomcat?
+50.¿Que es un Servidor de aplicaciones?
+51.¿Que es Paradigma?
+52.Menciona el ciclo de vida de un programa?
+53.Menciona el ciclo de vida de un programa java?
+54.¿Que es una API de Java?
+55.¿Que es API en general?
+56.¿Que es un Servlet?
+57.¿Que son las Herramientas ¡giles?
+58.¿Que es Extreme Programming?
+59.¿Que es jira?
+60.¿Que es Scrum?
+61.¿Que es MySQL?
+62.¿Que es una Base de Datos relacional?
+63.¿Que es una base de datos no relacionles?
+64.¿Que es Front-End?
+65.¿Que es HTML?
+66.¿Que es CSS?
+67.¿Que es JavaScript?
+68.¿Que son JSP y JSF?
+69.¿Que es Spring AOP?
+70.¿Que es Spring DAO?
+71.¿Que es Spring ORM?
+72.¿Que es Spring Web?
+73.¿Que es un Context?
+74.¿Que es Spring MVC?
+75.¿Que es una Inyección de Dependencias?
+76.¿Que tipos de inyección de dependencias hay?
+77.¿Que es un Bean?
+78.¿Que es el Context.XML y que función tiene?
+79.¿Que es FactorÌa?
+80.¿Que hace el Método Factory?
+81.¿Que es un Método estático de fabricación?
+82.¿Que es Singleton y para que sirve?

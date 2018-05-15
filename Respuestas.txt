@@ -1,0 +1,74 @@
+1.Una clase es un molde a partir del cual se pueden crear objetos con la estructura y el comportamiento definidos en dicha clase.
+2.Es la particularización, realización específica u ocurrencia de una determinada clase, entidad o prototipo (Darle valor a algo).
+3.Es una instancia de una clase
+4.Todos los objetos son instancias de una clase.
+5.Los atributos también se consideran como variables miembros de la clase
+6.Es un atributo que no se puede modificar
+7.Es una clase que no puede tener herencia
+8.Es una clase incompleta (que no está completamente definida) que debe tener al menos un método abstracto y puede tener métodos concretos.
+9.Es una acción que un objeto puede desarrollar.
+10.Es un método declarado, pero no implementado, es decir, del que solo se declara nombre, parametros y valor de retorno, pero no su código.
+11.Es una plantilla de una clase, una forma para traer recursos que no están relacionados por herencia.
+12.Las colecciones es un framework que proporciona una arquitectura para almacenar y manipular el grupo de objetos
+13.Es la capacidad de un método de reaccionar o de comportarse de diferentes formas de acuerdo a la manera en que es instanciado durante el tiempo de ejecución.
+14.Es la propiedad de un sistema para ser descompuesto en un conjunto de módulos unidos y acoplados.
+15.Es el análisis de las características, atributos y métodos que son (y que no son) de interÈs para la aplicación en consideración.
+16.Incluir objetos en la estructura de otra clase. No hay relación de dependencia en cuanto a la existencia de la clase todo y las clases parte.
+17.Relación total de una dependencia, si no tienes a tus partes no tienes composición.
+18.Se dice que hay asociación cuando existe una relación de uso entre dos clases. Cómo se implementa a nivel de código? Basta con que exista un objeto que se envíe como parámetro al método de la clase que lo utiliza o que se declare un objeto de una clase dentro del método de otra que temporalmente lo requiera.
+19.El número de elementos relacionados entre una clase y otra.
+20.La herencia permite definir nuevas clases basadas en la existencia de otras muy parecidas evitando la duplicidad de código.
+21.Expresiones lambda podemos referenciar métodos anónimos o métodos sin nombre, lo que nos permite escribir código más claro y conciso que  cuando usamos clases anónimas.
+22.Abstracción, Herencia, Encapsulamiento y Polimorfismo
+23.Secuenciales, Iterativas y condicionales.
+24.Devuelve el valor y reciben parámetros, 2.Devuelven valor y no reciben parámetros, 3.No Devuelven valor y reciben parámetros, 4.No Devuelven valor y no reciben parámetros.
+25.Algo que se recupera tras la ejecución de una función.
+26.Valor enviado a la función para que pueda trabajar.
+27.Se dice que una función está sobrecargada si existe otra que tenga el mismo nombre, pero que se distinga de la primera por n˙mero o tipo de parámetros.
+28.variable dimensionada
+29.Sirve para construir (asignación real de memoria). Es el momento en el que se invoca al constructor.
+30.Son Atributos o métodos estáticos que pertenecen a la clase y no a objetos
+31.Una interface es un protocolo de comunicación entre objetos (todos sus campos son automáticamente públicos, estáticos y finales y sus métodos son predeterminados y públicos), Una clase abstracta es una clase incompleta (Sus campos no son estáticos y ni finales, y definen métodos públicos, protegidos y privados) 
+32.La herencia múltiple.
+33.Es un conjunto de herramientas para el manejo de estructuras de datos.
+34.Los arreglos son Estructuras de datos dinámicas. Las colecciones son arreglos dinámicos.
+35.El iterador (es una interfaz).
+36.Enumeradores, aunque también se puede utilizar el iterador.
+37.50%
+38.Por default se duplica e inicia con 10 espacios, o puedes controlar su crecimiento al momento de declarar el vector.
+39.al momento de declarar el vector controlas el crecimiento-> (dimensión e índice de crecimiento).
+40.SÌ es posible.
+41.Una lista de datos que pueden instanciar un atributo.
+42.Sirve para comunicarte con el compilador para indicarle que vas a hacer.
+43.Permite que una función sea tratada de la misma manera que un dato primitivo..
+44.Para hacer más dinámico el código y para minimizar líneas de código.
+45.Plain old Java Object. Un POJO es una instancia de una clase que no extiende ni implementa nada en especial. Para los programadores Java sirve para enfatizar el uso de clases simples y que no dependen de un framework en especial.
+46.Conjunto de herramientas y recursos predeterminados para problemas que se repiten comúnmente y representan en situaciones particulares del diseÒo.
+47.Es un encapsulador de varios objetos y Se accede con getters y setters
+48.Presentación/Interface, 2.Business (lógica de negocio)/Back-end 3.Data / Data Base.
+49.Es un contenedor de Servlets.
+50.Es el encargado de la ejecución de una aplicación, incluye un contenedor de servlets.
+51.Es un estilo de desarrollo de programas, es decir, un modelo para resolver problemas.
+52.1.Nace con sus requerimientos, 2.Crece con su desarrollo y mantenimiento, 3.Muere cuando se remplaza por otro
+53.1.Primero creamos un Archivo.java, 2.se compila (compilador herramienta del JDK) 3.se genera un archivo bytecode con extensión .class 4.es ejecutado por la máquina virtual 
+54.Interfaz de programación de aplicaciones. Es la herramienta de java que da a los programadores los medios para crear aplicaciones. Es un conjunto de clases utilitarias para efectuar toda clase de tareas necesarias.
+55.Una conexión a una funcionalidad añadida desde un recurso externo (Facebook, PayPal, etc).
+56.Pequeños programas que se ejecutan en servidores en el contexto de un navegador web que nos permite crear aplicaciones web dinámicas, es decir, le permite al usuario interactuar con la aplicación.
+57.son un conjunto de valores, principios y creencias que los equipos pueden usar para tomar desiciones acerca de como trabajar en el desarrollo de software.
+58.Conjunto de prácticas y reglas empleadas para desarrollar software basada en diferentes ideas acerca de cómo enfrentar ambientes muy cambiantes. En vez de planificar, analizar y diseñar para el futuro distante, hacer todo esto un poco cada vez, a través de todo el proceso de desarrollo.
+59.Es una herramienta de gestión de proyectos compatible con cualquier metodología ·gil.
+60.Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo y obtener el mejor resultado posible de un proyecto.
+61.Es un sistema de gestión de base de datos relacional (RDBMS Relational Data Base Management System) de código abierto, basado en lenguaje de consulta estructurado (SQL).
+62.Tipo de base de datos que cumple con el modelo relacional en donde cada relación es una tabla.
+63.Son bases de datos optimizadas para modelos de datos sin esquema y de desempeño escalable. También son ampliamente conocidas por su facilidad de desarrollo, baja latencia y resiliencia.
+64.Son  todas aquellas tecnologías que corren del lado del navegador web, generalizando más que nada en tres lenguajes, HTML, CSS Y JavaScript.
+65HTML es un lenguaje de marcado de híper texto constituidos por etiquetas, contenido y atributos. Separando de esta forma la estructura de la presentación.
+66.El CSS (hojas de estilo en cascada) es un lenguaje que define la apariencia de un documento escrito en un lenguaje de marcado (por ejemplo, HTML).
+67.Es un lenguaje de programación interpretado, basado en el paradigma orientado a objetos, utilizado para el desarrollo front-end.
+68.Estrategias de desarrollo de páginas web dinámicas JSP (Java Server Pages ï	Permite el desarrollo rápido en aplicaciones web de plataformas independientes). JSP separa la interfaz de usuario con la generación de contenido, permitiendo a diseñadores cambiar el layout de una página sin alterar el contenido. (JavaServer Faces) Set de APIs para representar componentes de interfaz de usuario y manejar su estado, controlar eventos y validación de entradas, definiendo páginas de navegación y soportando accesibilidad e internacionalización.
+69.Aspect Oriented Programming, paradigma de programación que intenta formalizar y representar de forma concisa los elementos que son transversales (es decir, es posible añadir funcionalidad a un programa cuando la función no tiene relación alguna con lo que tu programa hace) a todo el sistema.
+70.Data Access Object, un componente de software que facilita el acceso a datos almacenados. Es una capa para trabajar con todas las consultas y la interacción con base de datos (insert, select, delete, etcÖ).
+71.Object Relational Mapping, se encarga directamente de la administración de conexiones y transacciones a la base de datos.
+72.Spring Web Flow nos permite definir flujos de negocio para nuestras aplicaciones web.
+73.Es un framework que implementa inyección de dependencias automáticamente. Maneja la creación de objetos y su tiempo de vida. También inyecta dependencias a la clase.
+74.Es una alternativa de framework basado en el patrón modelo-vista-controlador tiene un conjunto de interfaces que después se implementan para proporcionar la funcionalidad correspondiente. Las interfaces están acopladas claramente al Servlet Api.  
