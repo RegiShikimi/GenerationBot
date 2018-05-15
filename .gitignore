@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 target/classes/com/Generation/GenerationBot/Ref.class
+Ref.class
 
 # Log file
 *.log
@@ -14,6 +15,7 @@ target/classes/com/Generation/GenerationBot/Ref.class
 # Language file
 *.java
 src/main/java/com/Generation/GenerationBot/Ref.java
+Ref.java
 
 # Package Files #
 *.jar
